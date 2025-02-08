@@ -1,0 +1,60 @@
+7
+ismael salou
+495000
+courant
+8
+roukaya info
+450000
+Bloque
+9
+Aicha Sidda
+5000
+Entreprise
+12
+Larissa Dougbe
+5000
+Epargne
+13
+Zakari yaou
+5000
+epargne
+14
+ali mousssa
+17500
+courant
+15
+sani ali
+50000
+epargne 
+16
+Nadir sani
+90000
+epargne
+17
+ali issa 
+550000
+epargne
+18
+g
+6000
+Epargne
+19
+jjk
+70000
+Courant
+20
+Anouar info
+5000
+Courant
+21
+Yassine Sidibe
+5000
+Courant
+22
+Riskoua c3
+507000
+courant
+10
+Oustaz Moubarak
+851000
+Bloque
